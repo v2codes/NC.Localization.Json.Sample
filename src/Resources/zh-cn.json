@@ -1,0 +1,17 @@
+{
+  "culture": "zh-cn",
+  "texts": {
+    "welcome": "欢迎 {0}, 你好嘛?",
+    "home": "主页",
+    "privacy": "隐私",
+    "culture": "语言",
+    "uiCulture": "展示语言",
+    "date": "日期",
+    "currency": "通用",
+    "numbers": "数字",
+    "create": "创建",
+    "save": "保存",
+    "name": "名称",
+    "required": "必填"
+  }
+}
